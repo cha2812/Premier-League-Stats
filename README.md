@@ -37,7 +37,7 @@ To create a Pivot table,
 
 
 1. For the players who had the top 5 total stats in the season, drag the Full name into Rows and then drag the total stats into Values. Then filter to get the top 5 players with the highest stats.
-
+![](pic1.png)
 
 2. For the club with the youngest squad based on the average age of players, you drag the clubs into Rows and then drag the Age into Values. To get the average, right-click on all the columns and change the aggregation from sum to average.
 
