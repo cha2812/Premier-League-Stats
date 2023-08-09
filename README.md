@@ -51,7 +51,7 @@ England is the country with the highest amount of players in the English Premier
 
 4. For the overall rating distribution of players from Arsenal in the database, you drag the Full name into Rows, the club into Columns and then drag the overall into Values.
 Martin Odegaard and Thomas Partey have the highest overall ratings among the Arsenal squad while Lino Sousa has the lowest overall rating at 56. 
-![](pic4.png)
+![](picture4.png)
 
 5. For the average height and weight of players playing in Machester in the Premier League, you drag the club into Rows, and the height and weight into Columns. To get the average, right-click on all the columns and change the aggregation from sum to average.
 Manchester United has an average height of 183, one higher than Manchester City at 182, while Manchester City has an average weight of 76, one higher than Manchester United at 75.
