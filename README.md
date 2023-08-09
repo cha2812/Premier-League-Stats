@@ -86,6 +86,9 @@ The visuals for the 10 teams in the league pay the highest salaries.
 
 ## Conclusion
 This is my data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table in Excel. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
-Joe
-
-
+Joe Aribo had the highest stats among all the players that played in the Premier League in the 2022/2023 season.
+Brighton has the least average age at 23 while Everton, West Ham United, Fulham, Nottingham Forest, Newcastle United and Liverpool at 26.
+England is the country with the highest amount of players in the English Premier League.
+Martin Odegaard and Thomas Partey have the highest overall ratings among the Arsenal squad while Lino Sousa has the lowest overall rating at 56. 
+Manchester United has an average height of 183, one higher than Manchester City at 182, while Manchester City has an average weight of 76, one higher than Manchester United at 75.
+Manchester City is the club and team with the highest salary in the Premier League.
