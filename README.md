@@ -59,6 +59,7 @@ Manchester United has an average height of 183, one higher than Manchester City 
 
 6. For 10 teams in the league that pay the highest salaries, you drag the club into Rows, and the total wage EUR into Columns. Then you filter to select the top 10 clubs/teams that pay the highest.
 Manchester City is the club and team with the highest salary in the Premier League.
+
 ![](pic6.png)
 
 
