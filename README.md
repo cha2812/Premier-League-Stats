@@ -80,7 +80,7 @@ The visuals for the overall rating distribution of players from Arsenal in the l
 The visuals for the average height and weight of players playing in Machester in the Premier League which means players playing for Manchester United and Manchester City.
 ![](visual5.png)
 
-The visuals for the 10 teams in the league pay the highest salaries.
+The visuals for the Top 10 teams in the league pay the highest salaries to their players.
 ![](visual6.png)
 
 
