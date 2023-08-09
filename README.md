@@ -35,25 +35,30 @@ To create a Pivot table,
 - Then, it takes you to a new worksheet.
 
 
-
 1. For the players who had the top 5 total stats in the season, drag the Full name into Rows and then drag the total stats into Values. Then filter to get the top 5 players with the highest stats.
 Joe Aribo had the highest stats among all the players that played in the Premier League in the 2022/2023 season.
+
 ![](pic1.png)
 
 2. For the club with the youngest squad based on the average age of players, you drag the clubs into Rows and then drag the Age into Values. To get the average, right-click on all the columns and change the aggregation from sum to average.
-Liverpool 
+Brighton has the least average age at 23 while Everton, West Ham United, Fulham, Nottingham Forest, Newcastle United and Liverpool at 26.
+
 ![](picture2.png)
 
-3. To find out the nationality breakdown of players in the Premier League in terms of percentage, you drag the nationality into Rows and then drag the nationality into Values. To get the count, right-click on all the columns and change the aggregation from sum to count.
+3. To find out the top 5 nationality breakdowns of players in the Premier League in terms of percentage, you drag the nationality into Rows and then drag the nationality into Values. To get the count, right-click on all the columns and change the aggregation from sum to count.
+England is the country with the highest amount of players in the English Premier League.
 ![](pic3.png)
 
 4. For the overall rating distribution of players from Arsenal in the database, you drag the Full name into Rows, the club into Columns and then drag the overall into Values.
+Martin Odegaard and Thomas Partey have the highest overall ratings among the Arsenal squad while Lino Sousa has the lowest overall rating at 56. 
 ![](pic4.png)
 
 5. For the average height and weight of players playing in Machester in the Premier League, you drag the club into Rows, and the height and weight into Columns. To get the average, right-click on all the columns and change the aggregation from sum to average.
+Manchester United has an average height of 183, one higher than Manchester City at 182, while Manchester City has an average weight of 76, one higher than Manchester United at 75.
 ![](pic5.png)
 
 6. For 10 teams in the league that pay the highest salaries, you drag the club into Rows, and the total wage EUR into Columns. Then you filter to select the top 10 clubs/teams that pay the highest.
+Manchester City is the club and team with the highest salary in the Premier League.
 ![](pic6.png)
 
 
