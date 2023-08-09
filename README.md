@@ -37,10 +37,12 @@ To create a Pivot table,
 
 
 1. For the players who had the top 5 total stats in the season, drag the Full name into Rows and then drag the total stats into Values. Then filter to get the top 5 players with the highest stats.
+Joe Aribo had the highest stats among all the players that played in the Premier League in the 2022/2023 season.
 ![](pic1.png)
 
 2. For the club with the youngest squad based on the average age of players, you drag the clubs into Rows and then drag the Age into Values. To get the average, right-click on all the columns and change the aggregation from sum to average.
-![](pic2.png)
+Liverpool 
+![](picture2.png)
 
 3. To find out the nationality breakdown of players in the Premier League in terms of percentage, you drag the nationality into Rows and then drag the nationality into Values. To get the count, right-click on all the columns and change the aggregation from sum to count.
 ![](pic3.png)
@@ -77,6 +79,7 @@ The visuals for the 10 teams in the league pay the highest salaries.
 
 
 ## Conclusion
-This is my fourth data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
+This is my data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table in Excel. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
+
 
 
