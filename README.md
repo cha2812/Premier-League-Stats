@@ -40,19 +40,19 @@ To create a Pivot table,
 ![](pic1.png)
 
 2. For the club with the youngest squad based on the average age of players, you drag the clubs into Rows and then drag the Age into Values. To get the average, right-click on all the columns and change the aggregation from sum to average.
-
+![](pic2.png)
 
 3. To find out the nationality breakdown of players in the Premier League in terms of percentage, you drag the nationality into Rows and then drag the nationality into Values. To get the count, right-click on all the columns and change the aggregation from sum to count.
-
+![](pic3.png)
 
 4. For the overall rating distribution of players from Arsenal in the database, you drag the Full name into Rows, the club into Columns and then drag the overall into Values.
-
+![](pic4.png)
 
 5. For the average height and weight of players playing in Machester in the Premier League, you drag the club into Rows, and the height and weight into Columns. To get the average, right-click on all the columns and change the aggregation from sum to average.
-
+![](pic5.png)
 
 6. For 10 teams in the league that pay the highest salaries, you drag the club into Rows, and the total wage EUR into Columns. Then you filter to select the top 10 clubs/teams that pay the highest.
-
+![](pic6.png)
 
 
 The visuals below show and explain better our findings and solution to the problems 1 - 6 we are trying to solve which is our problem statement 1 - 6.
