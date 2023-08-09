@@ -57,20 +57,24 @@ To create a Pivot table,
 
 The visuals below show and explain better our findings and solution to the problems 1 - 6 we are trying to solve which is our problem statement 1 - 6.
 
-
+The visuals for the players who had the top 5 total stats in the season.
 ![](visual1.png)
 
-The visuals for the number of students across the different blood groups.
-
+The visuals for the club that has the youngest squad based on the average age of players.
 ![](visual2.png)
 
-The visuals for the number of students who smoke and do not smoke.
-
+The visuals for the nationality breakdown of players that play in the Premier League.
 ![](visual3.png)
 
-The visuals for the number of students who have diabetes and those who do not have diabetes.
-
+The visuals for the overall rating distribution of players from Arsenal in the league.
 ![](visual4.png)
+
+The visuals for the average height and weight of players playing in Machester in the Premier League which means players playing for Manchester United and Manchester City.
+![](visual5.png)
+
+The visuals for the 10 teams in the league pay the highest salaries.
+![](visual6.png)
+
 
 ## Conclusion
 This is my fourth data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
