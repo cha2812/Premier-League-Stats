@@ -23,5 +23,6 @@ To solve and provide solutions to the following problems and questions.
 7. Data Visualization
 
 ## Data Analysis
-The data provided was complete and can be seen in the file called **Premier league stats.csv**. As the data provided was complete, it made it easier for me to carry out my analysis. The data was a very large dataset with                                         Columns = 90                                                                                                                      
+The data provided was complete and can be seen in the file called **Premier league stats.csv**. As the data provided was complete, it made it easier for me to carry out my analysis. The data was a very large dataset with                                         
+Columns = 90                                                                                                                      
 Rows = 696
