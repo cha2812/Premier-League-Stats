@@ -85,6 +85,6 @@ The visuals for the 10 teams in the league pay the highest salaries.
 
 ## Conclusion
 This is my data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table in Excel. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
-
+Joe
 
 
