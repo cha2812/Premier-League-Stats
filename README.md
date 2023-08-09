@@ -68,7 +68,7 @@ The visuals for the players who had the top 5 total stats in the season.
 ![](visual1.png)
 
 The visuals for the club that has the youngest squad based on the average age of players.
-![](visual2.png)
+![](vis2.png)
 
 The visuals for the nationality breakdown of players that play in the Premier League.
 ![](visual3.png)
