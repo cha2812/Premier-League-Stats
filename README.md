@@ -83,13 +83,25 @@ The visuals for the average height and weight of players playing in Machester in
 The visuals for the Top 10 teams in the league pay the highest salaries to their players.
 ![](visual6.png)
 
+## Side Note and Important Information
+The "TotalStats" column in the table represents the overall statistics or attributes of each player in the dataset. These statistics are related to different aspects of a player's skills and abilities in the game. Here's a breakdown of the meaning of some of the attributes in the "TotalStats" column:
+
+PaceTotal: This attribute represents a player's pace, which includes attributes like acceleration, sprint speed, and agility.
+ShootingTotal: This attribute encompasses a player's shooting skills, including attributes like finishing, long shots, volleys, and more.
+PassingTotal: This attribute covers a player's passing abilities, including attributes like short passing, crossing, long passing, and vision.
+DribblingTotal: This attribute reflects a player's dribbling skills, which include attributes like ball control, dribbling, agility, and balance.
+DefendingTotal: This attribute relates to a player's defensive capabilities, including attributes like marking, standing tackle, sliding tackle, and interceptions.
+PhysicalityTotal: This attribute represents a player's physical attributes, including strength, stamina, and jumping ability.
+GKRating: This attribute is specific to goalkeepers and represents their overall rating as a goalkeeper, including attributes related to goalkeeping skills.
+Other Ratings: The table also includes various other specific ratings for different playing positions and attributes.
 
 ## Conclusion
 This is my data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table in Excel. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
 Joe Aribo had the highest stats among all the players that played in the Premier League in the 2022/2023 season.
-# Note
 Brighton has the least average age at 23 while Everton, West Ham United, Fulham, Nottingham Forest, Newcastle United and Liverpool at 26.
 England is the country with the highest amount of players in the English Premier League.
 Martin Odegaard and Thomas Partey have the highest overall ratings among the Arsenal squad while Lino Sousa has the lowest overall rating at 56. 
 Manchester United has an average height of 183, one higher than Manchester City at 182, while Manchester City has an average weight of 76, one higher than Manchester United at 75.
 Manchester City is the club and team with the highest salary in the Premier League.
+
+
