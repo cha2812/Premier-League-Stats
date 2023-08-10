@@ -1,4 +1,4 @@
-# FIFA game Premier-League-Stats
+# FIFA Game Premier-League-Stats
 Explaining and providing insight into some FIFA game statistics about the Premier League which is the Top Football league in England, the best football league in Europe.
 
 ## Introduction
