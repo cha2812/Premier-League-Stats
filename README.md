@@ -1,8 +1,8 @@
 # Premier-League-Stats
-Explaining and providing insight into some statistics about the Premier League which is the Top Football league in England, the best football league in Europe.
+Explaining and providing insight into some FIFA game statistics about the Premier League which is the Top Football league in England, the best football league in Europe.
 
 ## Introduction
-This task of data analysis was done using an Excel spreadsheet. In this analysis, Pivot Tables were used to analyze statistics of players in the English Premier League which is the top professional football league in England for the 2022/2023 season. The data provided was complete and can be seen in the file called **Premier league stats.csv**.
+This task of data analysis was done using an Excel spreadsheet. In this analysis, Pivot Tables were used to analyze FIFA game statistics of players in the English Premier League which is the top professional football league in England for the 2022/2023 season. The data provided was complete and can be seen in the file called **Premier league stats.csv**.
 
 ## Problem Statement
 To solve and provide solutions to the following problems and questions.
@@ -97,11 +97,11 @@ The "TotalStats" column in the table represents the overall statistics or attrib
 
 ## Conclusion
 This is my data analysis task using data to tell a story. Carrying out this analysis was made so easy with the use of the Pivot Table in Excel. As long as you know which field name to put into the Filters, Columns, Rows and Values and you put them into the section.
-Joe Aribo had the highest stats among all the players that played in the Premier League in the 2022/2023 season.
-Brighton has the least average age at 23 while Everton, West Ham United, Fulham, Nottingham Forest, Newcastle United and Liverpool at 26.
-England is the country with the highest amount of players in the English Premier League.
-Martin Odegaard and Thomas Partey have the highest overall ratings among the Arsenal squad while Lino Sousa has the lowest overall rating at 56. 
-Manchester United has an average height of 183, one higher than Manchester City at 182, while Manchester City has an average weight of 76, one higher than Manchester United at 75.
+- Joe Aribo had the highest stats among all the players that played in the Premier League in the 2022/2023 season.
+- Brighton has the least average age at 23 while Everton, West Ham United, Fulham, Nottingham Forest, Newcastle United and Liverpool at 26.
+- England is the country with the highest amount of players in the English Premier League as it is the country where the football is played so I believe there is a law enforcing more players from England playing on each team in the country.
+- Martin Odegaard and Thomas Partey have the highest overall ratings among the Arsenal squad while Lino Sousa has the lowest overall rating at 56.
+- Manchester United has an average height of 183, one higher than Manchester City at 182, while Manchester City has an average weight of 76, one higher than Manchester United at 75.
 Manchester City is the club and team with the highest salary in the Premier League.
 
 
